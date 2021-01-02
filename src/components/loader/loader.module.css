@@ -1,0 +1,12 @@
+.loader {
+  position: absolute;
+  top: 60%;
+  left: 43%;
+  z-index: 100;
+}
+
+@media (max-width: 524px) {
+  .loader {
+    top: 98%;
+  }
+}
